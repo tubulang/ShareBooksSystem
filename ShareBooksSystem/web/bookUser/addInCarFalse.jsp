@@ -16,5 +16,8 @@
 <p style="margin: 0 auto;width: 500px;height: 100px;text-align: center;font-size: 20px;">
     加入借阅车失败！！！</p>
 
+<a style="margin: 0 auto;width: 500px;height: 100px;text-align: center;font-size: 17px;" href="showMyBorrowCarAction" class="myCar">返回我的借阅车</a>
+
+
 </body>
 </html>
