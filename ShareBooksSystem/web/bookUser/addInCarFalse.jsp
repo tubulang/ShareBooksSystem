@@ -14,7 +14,7 @@
 <body>
 <s:include value="newNav.jsp"/>
 <p style="margin: 0 auto;width: 500px;height: 100px;text-align: center;font-size: 20px;">
-    加入购物车失败！！！</p>
+    加入借阅车失败！！！</p>
 
 </body>
 </html>

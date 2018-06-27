@@ -30,6 +30,8 @@ public class SameBook_BDPageAction implements PageFormat {
 
         session.put("sameBook_BBId", bookId);
 
+        System.out.println(bookId);
+
         return "success";
     }
 

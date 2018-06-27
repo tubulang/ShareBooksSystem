@@ -43,6 +43,10 @@ public class SameB_B_DService implements BorrowsDataService {
 
             String userName = o[0].toString();
             line.add(userName);
+
+            System.out.println(userName);
+
+
             String bookName = o[1].toString();
             line.add(bookName);
             String bookAuthor = o[2].toString();
